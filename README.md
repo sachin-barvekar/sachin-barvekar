@@ -17,8 +17,7 @@ A passionate Software Developer from India.
 - [LinkedIn](https://linkedin.com/in/swaraj_pawar_7)
 
 ## Languages and Tools:
-- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
 - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
 - ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
 - ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
