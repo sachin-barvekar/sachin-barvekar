@@ -16,15 +16,5 @@ A passionate Software Developer from India.
 - [Instagram](https://instagram.com/swaraj_pawar_7)
 - [LinkedIn](https://linkedin.com/in/swaraj_pawar_7)
 
-## Languages and Tools:
-- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
-- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) MySQL
-- ![Postman](https://img.icons8.com/fluency/48/000000/postman-api.png) Postman
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
-- ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS
+## Languages and Tools:  
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript ![React](https://img.icons8.com/color/48/000000/react-native.png) React ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js ![Express](https://img.icons8.com/color/48/000000/express.png) Express ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB ![Postman](https://img.icons8.com/fluency/48/000000/postman-api.png) Postman ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) MySQL ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java ![DSA](https://img.icons8.com/color/48/000000/algorithm.png) DSA (Data Structures and Algorithms) ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) VS Code ![Eclipse](https://img.icons8.com/officel/48/000000/java-eclipse.png) Eclipse
