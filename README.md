@@ -13,7 +13,6 @@ A passionate Software Developer from India.
 
 ## Connect with me:
 - [GitHub](https://github.com/sachin-barvekar)
-- [Instagram](https://www.instagram.com/_sachin_barvekar_/)
 - [LinkedIn](https://www.linkedin.com/in/sachin-barvekar-2874481a2/)
 
 ## Languages and Tools:  
